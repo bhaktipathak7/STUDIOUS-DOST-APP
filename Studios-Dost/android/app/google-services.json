@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351104416147",
+    "project_id": "studiosdost",
+    "storage_bucket": "studiosdost.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351104416147:android:bb977345d411e667485066",
+        "android_client_info": {
+          "package_name": "com.example.studiosdost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351104416147-rfk9gchbf1j2bpt7lc3uqp0tcjjmu3ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbI9vA6CXi_TuMiZzfE5JsJJbeTk0dGXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351104416147-rfk9gchbf1j2bpt7lc3uqp0tcjjmu3ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
